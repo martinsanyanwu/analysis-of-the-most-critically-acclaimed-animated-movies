@@ -8,7 +8,8 @@ The goal of this project is to evaluate the financial performance of these movie
 ## Tools Used 
 Power Query and Power BI
 ## Data Structure 
-This dataset was sourced from kaggle here. It contains a list of some of the most highly acclaimed animated movies. Information was provided in the following categories:
+This dataset was sourced from kaggle. Link: https://www.kaggle.com/datasets/tarundalal/animated-movies-imdb
+It contains a list of some of the most highly acclaimed animated movies. Information was provided in the following categories:
 * Gross revenue
 * Year of release
 * Rating
